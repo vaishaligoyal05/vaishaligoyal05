@@ -1,9 +1,10 @@
 # Hi, I'm Vaishali Goyal! 👋
 
 🎓 Pre-Final year student | 👩‍💻 MERN Stack Developer | 💻 ML Learner
-📌 Currently working on: Hand Gesture Mouse Control & Hostel Issue Tracker  
+📌 Currently working on:  snipmate-Code-snippet-manager
 
 ## 📂 Projects
+- ✂️ [snipmate-Code-snippet-manager project](https://github.com/vaishaligoyal05/snipmate-Code-snippet-manager)
 - 🖱 [Hand Mouse Proj](https://github.com/vaishaligoyal05/Hand_Mouse_Proj)
 - 🏠 [Hostel Issue Tracker](https://github.com/vaishaligoyal05/hostel-issue-tracker)
 
