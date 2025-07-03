@@ -4,6 +4,7 @@
 📌 Currently working on:  snipmate-Code-snippet-manager
 
 ## 📂 Projects
+- 🛠️ [InsightDocs-Augmented-Browsing](https://github.com/vaishaligoyal05/InsightDocs-Augumented-Browsing)
 - ✂️ [snipmate-Code-snippet-manager project](https://github.com/vaishaligoyal05/snipmate-Code-snippet-manager)
 - 🖱 [Hand Mouse Proj](https://github.com/vaishaligoyal05/Hand_Mouse_Proj)
 - 🏠 [Hostel Issue Tracker](https://github.com/vaishaligoyal05/hostel-issue-tracker)
